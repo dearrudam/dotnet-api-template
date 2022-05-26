@@ -1,33 +1,4 @@
-## **Visão Geral**
-
-O **dotnet-api-template** adiciona em uma stack a capacidade de provisionar serviços rest e gRPC.
-
-## **Uso**
-
-### **Pré-requisitos**
-Para utilizar esse plugin é necessário ter uma stack dotnet criada pelo `CLI` do `StackSpot` que você pode baixar [**aqui**](https://stackspot.com/).
-
-### **Instalação**
-Para fazer o download do **dotnet-api-template**, siga os passos abaixo:
-
-**Passo 1.** Copie e cole a URL abaixo no seu navegador/terminal:
-```
-https://github.com/stack-spot/dotnet-api-template.git
-```
-
-## **Implementação**
-
-### **Inputs**
-Os inputs necessários para utilizar o template são:
-| **Campo** | **Valor** | **Descrição** |
-| :--- | :--- | :--- |
-| Project Name|  | Nome da aplicação  |
-| Target Framework | net5.0 ou net6.0 | Target Framework em que a aplicação será criada  |
-
-
-### **Exemplo de uso**
-- [**Nuget**](https://www.nuget.org/packages/StackSpot.Template.Rest/)
- ## Execução do projeto criado
+## Execução do projeto criado
 
 Após criar o projeto, acesse o diretório em que foi criado e execute o seguinte comando:
 
